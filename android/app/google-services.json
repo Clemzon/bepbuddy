@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271352501327",
+    "project_id": "bepbuddy",
+    "storage_bucket": "bepbuddy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271352501327:android:1083680805093e06c0863a",
+        "android_client_info": {
+          "package_name": "com.madlabz.bepbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAFOTbGpBn4LQA6wxF2eWLNNYtUVFdWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
